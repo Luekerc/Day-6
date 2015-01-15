@@ -1,0 +1,350 @@
+.main {
+	background-color: #cccccc;
+	font-family: Asap;
+}
+
+.all {
+	margin: 1em 2em 1em 2em;
+	background-color: rgb(255,255,255);
+}
+
+.text {
+	margin: 0 2em 0 2em;
+	font-size: 1em;
+}
+
+.nav {
+	text-align: center;
+	font-size:1.25em;
+	color: rgb(12,52,79);
+}
+
+.sub {
+	color: rgb(12,52,79);
+}
+
+li {
+	display: inline-block;
+}
+
+.logo {
+	text-align: center;
+	font-size: 2em;
+	color: rgb(12,52,79);
+}
+
+.banner {
+	background-color: rgb(86,138,175);
+	padding-top: 1em;
+	color: rgb(255,255,255);
+	height: 12em;
+	background-size: 100% 100%;
+	padding-bottom: 0;
+}
+
+.fantastic {
+	color: rgb(12,52,79);
+	font-size: 4.35em;
+
+}
+#banner-image{
+	background-image: url("http://dreamatico.com/data_images/kitten/kitten-5.jpg");
+
+}
+
+.motto h1{
+	text-align: center;
+	font-size: 3em;
+}
+
+.motto h2{
+	text-align:center;
+}
+
+header {
+	font-size: 4.77em;
+	padding-top: 0.9em;
+}
+
+.datetime {
+	text-decoration: underline;
+	color: #cccccc;
+	font-size: 1.25em;
+	padding-bottom: 1.9em;
+}
+
+body {
+	background-color: white;
+}
+
+.quote {
+	margin: 0 auto;
+	font-size: 1.7em;
+	border-left: 2px solid #cccccc;
+	padding-left: 0.9em;
+	padding-top: 0.9em;
+	padding-bottom: 0.8em;
+	color: rgb(42,120,182);
+}
+
+
+.links {
+	color: black;
+	font-size: 1em;
+}
+
+.lnk1 {
+	height: 1em;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-right: 0.5em;
+	width: 3em;
+	background-color: rgb(11,53,80);
+	color: rgb(255,255,255);
+	float: left;
+}
+
+.lnk2 {
+	height: 1em;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-right: 0.5em;
+	width: 3em;
+	background-color: rgb(5,104,111);
+	color: rgb(255,255,255);
+	float: left;
+
+}
+
+.lnk3 {
+	height: 1em;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	width: 3em;
+	background-color: rgb(95,104,111);
+	color: rgb(255,255,255);
+	float: left;
+	
+}
+
+.dolphin {
+	font-size: 1.75em;
+	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 3em;
+	padding-top: 3em;
+	display: inline-block;
+	color: rgb(86,138,175);
+	margin: 0 0 0 2em;
+}
+
+.kitten {
+	padding-top: 6em;
+	height: 12em;
+	width: 15em;
+	text-align: center;
+	margin-bottom: 1em;
+	font-size: 0.25em;
+}
+
+.social {
+	font-size: 0.75em;
+}
+
+.twit {
+	height: 0.5em;
+	text-align: center;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	margin-right: 0.5em;
+	width: 5em;
+	background-color: rgb(255,255,255);
+	color: #cccccc;
+	float: left;
+}
+
+.face {
+		height: 0.5em;
+	text-align: center;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	margin-right: 0.5em;
+	width: 5em;
+	background-color: rgb(255,255,255);
+	color: #cccccc;
+	float: left;
+}
+
+.insta {
+		height: 0.5em;
+	text-align: center;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	margin-right: 0.5em;
+	width: 5em;
+	background-color: rgb(255,255,255);
+	color: #cccccc;
+	float: left;
+}
+
+.pic {
+	background-color: rgb(36,183,214);
+	height: 2em;
+	padding-top: 8em;
+	margin-top: 0.5em;
+	padding-bottom: 0.5em;
+	padding-left: 1em;
+	font-size: 2.1em;
+	color: rgb(213,213,213);
+}
+
+.ad {
+	font-size: 1.25em;
+	padding-top: 1em;
+	text-align: right;
+	text-decoration: underline;
+	color: #cccccc;
+	padding-bottom: 4em;
+	border-bottom: .05em solid #cccccc;
+}
+
+.rightsec {
+	display: none;
+	background-color: rgb(36,183,214);
+	height 4em;
+	font-size: 2.25em;
+	color: rgb(213,213,213);
+}
+
+.popular{
+	font-size: 2.25em;
+	padding-top: 3em;
+	padding-bottom: 1em;
+	margin: 0 0em 0 0em;
+	text-align: center;
+	color: rgb(12,52,82)
+
+}
+
+.post1 {
+	background-color: rgb(36,183,214);;
+	padding-top: 7em;
+	padding-bottom: 0.5em;
+	padding-left: 1em;
+	font-size: 2.25em;
+	color: rgb(213,213,213);
+	
+}
+
+.kayaks {
+	background-color: rgb(106,96,112);
+	padding-top: 6em;
+	padding-bottom: 0.5em;
+	padding-left: 1em;
+	font-size: 2.25em;
+	color: rgb(213,213,213);
+	margin: 1em 0 0 0;
+}
+
+.cool {
+	background-color: rgb(86,138,175);
+	padding-top: 7em;
+	padding-bottom: 0.5em;
+	padding-left: 1em;
+	font-size: 2.25em;
+	color: rgb(213,213,213);
+	margin: 1em 0 3em 0;
+}
+
+.footer {
+	background-color: rgb(9,46,69);
+	color: rgb(151,168,180);
+	padding-top: 3em;
+	font-size: 1.25em;
+	height: 14.5em;
+	text-align: center;
+
+.lownav {
+	margin-left: 4em;
+}
+
+.nav1 {
+	height: 1em;
+	text-align: center;
+	padding-right: 0.75em;
+	margin-right: 0.5em;
+	width: 5em;
+	background-color: rgb(9,46,69);
+	color: rgb(134, 152, 182);
+	float: left;
+	border-right: solid 0.1em;
+}
+
+.nav2 {
+	height: 1em;
+	text-align: center;
+	padding-right: 0.75em;
+	margin-right: 0.5em;
+	width: 5em;
+	background-color: rgb(9,46,69);
+	color: rgb(134, 152, 182);
+	float: left;
+	border-right: solid 0.1em;
+}
+
+.nav3 {
+	height: 1em;
+	text-align: center;
+	padding-bottom: 0.5em;
+	margin-right: 0.5em;
+	width: 5em;
+	background-color: rgb(9,46,69);
+	color: rgb(134, 152, 182);
+	float: left;
+}
+
+.nav5 {
+	height: 1em;
+	text-align: center;
+	margin-left: 6.3em;
+	padding-top: 0.5em;
+	width: 5em;
+	background-color: rgb(9,46,69);
+	color: rgb(134, 152, 182);
+}
+
+.img {
+	padding-top: 4em;
+}
+
+.rights {
+	padding-top: 0.5em;
+}
+
+}
+
+/* CSS for medium devices ≥768px */
+@media (min-width: 768px) {
+	
+.banner {
+	height: 15em;
+}
+
+.footer {
+	text-align: left;
+	height: 15em;
+}
+
+.kitten {
+	padding-top: 3em;
+	height: 10em;
+	width: 13em;
+	text-align: center;
+}
+.rightsec {
+	display: block;
+}
+}

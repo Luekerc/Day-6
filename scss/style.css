@@ -1,0 +1,103 @@
+@charset "UTF-8";
+.main {
+  background-color: #cccccc;
+  font-family: Asap; }
+
+.all {
+  margin: 1em 2em 1em 2em;
+  background-color: white; }
+
+.nav {
+  text-align: center;
+  font-size: 1.25em; }
+
+li {
+  display: inline-block; }
+
+.logo {
+  text-align: center;
+  font-size: 2em; }
+
+.banner {
+  background-color: black;
+  padding-top: 1em;
+  color: white;
+  height: 12em;
+  background-size: 100% 100%; }
+
+#banner-image {
+  background-image: url("http://dreamatico.com/data_images/kitten/kitten-5.jpg"); }
+
+.motto h1 {
+  text-align: center;
+  font-size: 3em; }
+
+.motto h2 {
+  text-align: center; }
+
+header {
+  font-size: 4.77em;
+  padding-top: 0.9em; }
+
+.datetime {
+  text-decoration: underline;
+  color: #cccccc;
+  font-size: 1.5em;
+  padding-bottom: 1.9em; }
+
+.body {
+  background-color: white;
+  height: 100%; }
+
+.quote {
+  font-size: 1.7em;
+  border-left: 2px #cccccc;
+  margin-left: 0.75em; }
+
+.dolphin {
+  font-size: 2em;
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 2em; }
+
+.kitten {
+  padding-top: 2em;
+  height: 5em;
+  width: 6em;
+  text-align: center; }
+
+.popular {
+  height: 4.75em;
+  text-align: bottom;
+  margin: 0;
+  padding: 0; }
+
+.post1 {
+  background-color: red; }
+
+.kayaks {
+  background-color: blue; }
+
+.cool {
+  background-color: green; }
+
+.footer {
+  background-color: blue;
+  height: 100%;
+  text-align: center; }
+
+/* CSS for medium devices ≥768px */
+@media (min-width: 768px) {
+  .banner {
+    height: 15em; }
+
+  .footer {
+    text-align: left; }
+
+  .kitten {
+    padding-top: 3em;
+    height: 10em;
+    width: 13em;
+    text-align: center; } }
+
+/*# sourceMappingURL=style.css.map */
